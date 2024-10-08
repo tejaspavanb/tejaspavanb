@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejaspavanb
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently pursuing Bachelors of Engineering in Computr Science 
+- 🌱 I’m currently pursuing Bachelors of Engineering in Computer Science 
 - 💞️ I’m looking to collaborate on Projects, Research Work and Programming related tasks
 - 📫 Reach out to me at tejaspavanb@gmail.com
 - 😄 Pronouns: He
