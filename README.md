@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science Student at VTU looking for my break through oppurtunity in Tech Organizations and currently am working on Machine Learning<br>
+🔭 An enthusiastic computer science student with exceptional technical knowledge and skills trying to make his way up the ladder. A goal oriented Computer Science student and a Tech enthusiast capable of innovative thinking in a team environment. Confident, hardworking individual with excellent communication and interpersonal skills. <br>
+
+Reach out: tejaspavanb@gmail.com <br>
 
 # Kindly Check out my projects below
 
