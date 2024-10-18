@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>
+🔭 I’m currently a Computer Science Student at VTU looking for my break through oppurtunity in Tech Organizations and currently am working on Machine Learning<br>
 
 # Kindly Check out my projects below
 
