@@ -16,6 +16,7 @@ Reach out: tejaspavanb@gmail.com <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tejaspavanb&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspavanb&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejaspavanb&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
