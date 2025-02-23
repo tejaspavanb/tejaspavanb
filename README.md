@@ -1,3 +1,5 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There+!!++Welcome+to+my+Github+!!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 An enthusiastic computer science student with exceptional technical knowledge and skills trying to make his way up the ladder. A goal oriented Computer Science student and a Tech enthusiast capable of innovative thinking in a team environment. Confident, hardworking individual with excellent communication and interpersonal skills. <br>
 
